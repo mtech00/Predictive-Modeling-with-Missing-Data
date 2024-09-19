@@ -1,11 +1,10 @@
-### README.md
+
 
 ```markdown
 # Predictive Modeling with Missing Data
 
-Muhammet Ali YILDIZ  
 
-Polytechnic Institute of Guarda  
+
 
 ## Project Overview
 
